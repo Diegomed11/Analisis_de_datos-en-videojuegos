@@ -47,7 +47,7 @@ El análisis revela que el género de **Acción** es el líder indiscutible en v
 ### 2. Evolución de los Géneros
 Se observa un pico masivo en las ventas de videojuegos entre 2008 y 2011, con el género de **Acción** mostrando un crecimiento exponencial durante la era de la PS3 y Xbox 360.
 
-![Gráfico de Evolución de Géneros](RUTA/A/TU/IMAGEN/tendencias.png)
+![Gráfico de Evolución de Géneros](https://github.com/Diegomed11/Analisis_de_datos-en-videojuegos/blob/main/images/evoluciongenero.png?raw=true)
 
 ### 3. Plataformas más Exitosas
 La **PlayStation 2** y la **Xbox 360** se posicionan como las consolas con mayor venta de software en la historia, destacando la "era dorada" de los videojuegos.
