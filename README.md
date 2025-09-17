@@ -42,7 +42,7 @@ A continuación se presentan los principales hallazgos del análisis:
 ### 1. Géneros más Populares
 El análisis revela que el género de **Acción** es el líder indiscutible en ventas globales, seguido por **Deportes** y **Shooter**.
 
-![Gráfico de Ventas por Género](RUTA/A/TU/IMAGEN/genero.png)
+![Gráfico de Ventas por Género](https://github.com/Diegomed11/Analisis_de_datos-en-videojuegos/blob/main/images/ventasporgenero.png?raw=true)
 
 ### 2. Evolución de los Géneros
 Se observa un pico masivo en las ventas de videojuegos entre 2008 y 2011, con el género de **Acción** mostrando un crecimiento exponencial durante la era de la PS3 y Xbox 360.
