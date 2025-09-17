@@ -57,7 +57,7 @@ La **PlayStation 2** y la **Xbox 360** se posicionan como las consolas con mayor
 ### 4. Publishers Dominantes
 **Nintendo** lidera el mercado de manera abrumadora, beneficiándose de ser un desarrollador first-party para sus exitosas consolas. Le siguen gigantes como **Electronic Arts** y **Activision**.
 
-![Gráfico de Ventas por Publisher](RUTA/A/TU/IMAGEN/publishers.png)
+![Gráfico de Ventas por Publisher](https://github.com/Diegomed11/Analisis_de_datos-en-videojuegos/blob/main/images/toppublisher.png?raw=true)
 
 ---
 
