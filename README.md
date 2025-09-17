@@ -52,7 +52,7 @@ Se observa un pico masivo en las ventas de videojuegos entre 2008 y 2011, con el
 ### 3. Plataformas más Exitosas
 La **PlayStation 2** y la **Xbox 360** se posicionan como las consolas con mayor venta de software en la historia, destacando la "era dorada" de los videojuegos.
 
-![Gráfico de Ventas por Plataforma](RUTA/A/TU/IMAGEN/plataformas.png)
+![Gráfico de Ventas por Plataforma](https://github.com/Diegomed11/Analisis_de_datos-en-videojuegos/blob/main/images/ventasplataforma.png?raw=true)
 
 ### 4. Publishers Dominantes
 **Nintendo** lidera el mercado de manera abrumadora, beneficiándose de ser un desarrollador first-party para sus exitosas consolas. Le siguen gigantes como **Electronic Arts** y **Activision**.
